@@ -5,6 +5,7 @@ Install node.js, redis, redis3m, cmake 2.8 (or higher), fuse library, boost 1.57
 
 ## Compile
    cd src
+   
    make
 ## Run
    Start meta server: 
