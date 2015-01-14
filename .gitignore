@@ -1,0 +1,17 @@
+# emacs 
+*~
+\#*
+.\#*
+
+# thrift
+src/thrift/gen-nodejs/
+
+# npm module
+node_modules/
+
+src/meta_data/CMakeFiles/
+src/meta_data/CMakeCache.txt
+src/meta_data/Makefile
+src/meta_data/cmake_install.cmake
+src/meta_data/fusionfs
+src/meta_data/gen-cpp/
